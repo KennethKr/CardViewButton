@@ -7,8 +7,6 @@ The button will change background color on highlight based on the BackgroundColo
 Example properties (used in screenshot):
 
             ShadowColor = UIColor.Black;
-            BackgroundColorNormal = UIColor.White;
-            BackgroundColorHighlight = UIColor.FromRGB(241, 241, 241);
             CornerRadius = 2;
             ShadowOffsetHeight = 3;
             ShadowOffsetWidth = 0;
