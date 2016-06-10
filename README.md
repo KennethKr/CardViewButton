@@ -1,6 +1,6 @@
 # CardViewButton
 
-A Xamarin iOS Material Design CardView button, based on [iOS Cardview](https://github.com/aclissold/CardView). 
+A Xamarin iOS Material Design CardView / button, based on [iOS Cardview](https://github.com/aclissold/CardView). 
 
 The button will change background color on highlight based on the BackgroundColorNormal and BackgroundColorHighlight properties.
 
